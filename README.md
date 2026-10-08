@@ -37,7 +37,7 @@ Proyek ini mendemonstrasikan konsep **inheritance (pewarisan)** dan **method ove
 <div align="center">
 
 <!-- 👇 GANTI NAMA FILE GAMBAR DI BAWAH INI 👇 -->
-![Screenshot Hasil Program](images/nama-gambar.png)
+![Screenshot Hasil Program](Inheritance dan Polymorphism.png)
 <!-- 👆 GANTI NAMA FILE GAMBAR DI ATAS INI 👆 -->
 
 *Gambar: Tampilan output program di terminal*

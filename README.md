@@ -172,5 +172,3 @@ Silinder warna coklat, volume = 1357.1668799999998
 
 ⭐ *Dibuat dengan semangat belajar Java* ⭐
 
-</div># PBO_Inheritance-dan-Polymorphism2
-Tugas 2 Inheritance dan Polymorphism

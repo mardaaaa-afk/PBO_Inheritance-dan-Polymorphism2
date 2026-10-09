@@ -32,13 +32,10 @@ Proyek ini mendemonstrasikan konsep **inheritance (pewarisan)** dan **method ove
 
 ## 🖼️ Tampilan Program
 
-> 📌 **Tempat upload gambar:** ganti tautan di bawah dengan screenshot hasil program kamu.
-> Caranya: tarik & lepas (drag & drop) gambar ke editor README di GitHub, lalu salin tautan yang muncul.
-
 <div align="center">
 
 <!-- 👇 GANTI GAMBAR DI BAWAH INI 👇 -->
-![Screenshot Hasil Program](Array.png)
+![Screenshot Hasil Program](Inheritance%20dan%20Polymorphism.png)
 <!-- 👆 GANTI GAMBAR DI ATAS INI 👆 -->
 
 *Gambar: Tampilan output program di terminal*
